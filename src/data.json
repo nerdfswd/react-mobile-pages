@@ -1,0 +1,121 @@
+{
+	"profile" :[
+       {
+          "details" : {
+          	"name" : "Samsung Galaxy M21",
+          	"color" : "Blue Colored",
+          	"storage": "4GB RAM, 64GB Storage",
+            "battery": "6000mAH",
+          	"price" : "Rs.13,999/-"
+          },
+          "camera":"Triple Camera Setup - 48MP (F2.0) Main Camera +8MP (F2.2) Ultra Wide Camera +5MP(F2.2) Depth Camera and 20MP (F2.2) front facing Punch Hole Camera.",
+          "Size": "6.4-inch(16.21 centimeters) Super Amoled - Infinity U Cut Display , FHD+ Resolution (2340 x 1080) , 404 ppi pixel density and 16M color support.",
+          "OS": "Android 10.0 operating system with Exynos 9611,2.3GHz,1.7GHz Octa-Core processor, 4GB RAM, 64GB internal memory expandable up to 512GB and dual SIM.",
+          "Warrenty":"1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase."
+       },
+       {
+          "details" : {
+          	"name" : "Samsung Galaxy M30",
+            "color" : "Blue Colored",
+            "storage": "4GB RAM, 128GB Storage",
+            "battery": "6000mAH",
+            "price" : "Rs.17,948/-"
+          },
+          "camera":"Triple Camera Setup - 48MP (F2.0) Main Camera +8MP (F2.2) Ultra Wide Camera +5MP(F2.2) Depth Camera and 20MP (F2.2) front facing Punch Hole Camera.",
+          "Size": "6.4-inch(16.21 centimeters) Super Amoled - Infinity U Cut Display , FHD+ Resolution (2340 x 1080) , 404 ppi pixel density and 16M color support.",
+          "OS": "Android v10.0 operating system with 2.3GHz + 1.7GHz Exynos 9611 Octa core processor , 4GB RAM, 128GB internal memory expandable up to 512GB and dual SIM.",
+          "Warrenty":"1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase."
+       },
+       {
+          "details" : {
+            "name" : "Samsung Galaxy M31 S",
+            "color" : "Blue Colored",
+            "storage": "8GB RAM, 128GB Storage",
+            "battery": "6000mAH",
+            "price" : "Rs.19,499/-"
+          },
+          "camera": "Quad Camera Setup - 64MP (F1.8) Main Camera +8MP (F2.2) Ultra Wide Camera +5MP(F2.2) Depth Camera +5MP(F2.4) Macro Camera and 32MP (F2.0) front facing Camera.",
+          "Size": "6.4-inch(16.21 centimeters) Super Amoled - Infinity U Cut Display , FHD+ Resolution (2340 x 1080) , 404 ppi pixel density and 16M color support.",
+          "OS": "Android v10.0 operating system with 2.3GHz + 1.7GHz Exynos 9611 Octa core processor , 8GB RAM, 128GB internal memory expandable up to 512GB and dual SIM.",
+          "Warrenty":"1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase."         
+       },
+       {
+          "details" : {
+            "name" : "Redmi Note 9",
+            "color" : "Black Colored",
+            "storage": "4GB RAM, 64GB Storage",
+            "battery": "5020mAH",
+            "price" : "Rs.11,999/-"
+          },
+          "camera":"48MP rear camera with ultra-wide, macro, depth sensor, portrait, night mode, ai scene recognition, hdr, pro mode | 13MP front camera.",
+          "Size": "16.5862 centimeters (6.53-inch) FHD+ display with multi-touch capacitive touchscreen with 2340 x 1080 pixels resolution | 19.5:9 aspect ratio.",
+          "OS": "Android v10 operating system with 2.0GHz Mediatek Helio G85 octa core processor with 12nm process, Helio G85.",
+          "Warrenty":"1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase."
+       },
+       {
+          "details" : {
+            "name" : "Redmi Note 8",
+            "color" : "Black Colored",
+            "storage": "4GB RAM, 64GB Storage",
+            "battery": "4000mAH",
+            "price" : "Rs.12,799/-"
+          },
+          "camera":"48MP AI Quad camera with portrait, ultra-wide lens, macro lens, LED flash, AI support, beautify support | 13MP front camera with AI portrait mode.",
+          "Size": "16.002 centimeters (6.3-inch) IPS LCD multi-touch capacitive touchscreen with 2280 x 1080 pixels resolution, 403 ppi pixel density and 19.5:9 aspect ratio | 2.5D curved glass.",
+          "OS": "Android Pie v9 operating system with 2.0GHz Qualcomm Snapdragon 665 octa core processor.",
+          "Warrenty":"1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase."
+       },
+       {
+          "details" : {
+            "name" : "Redmi Note 9 Pro",
+            "color" : "Black Colored",
+            "storage": "4GB RAM, 64GB Storage",
+            "battery": "5020mAH",
+            "price" : "Rs.13,999/-"
+          },
+          "camera":"48MP rear camera with ultra-wide, super macro, portrait, night mode, 960fps slowmotion, AI scene recognition, pro color, HDR, pro mode | 16MP facing camera.",
+          "Size": "16.9418 centimeters (6.67-inch) FHD+ full screen dot display LCD multi-touch capacitive touchscreen with 2400 x 1080 pixels resolution, 400 ppi pixel density and 20:9 aspect ratio | 2.5D curved glass.",
+          "OS": "Android v10 operating system with 2.3GHz Qualcomm Snapdragon 720G with 8nm octa core processor.",
+          "Warrenty":"1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase."
+       },
+       {
+          "details" : {
+            "name" : "IPhone 6S",
+            "color" : "White Colored",
+            "storage": "2GB RAM, 64GB Storage",
+            "battery": "1715mAH",
+            "price" : "Rs.36,998/-"
+          },
+          "camera":"12MP primary cameras with optical zoom at 2x, digital zoom up to 10x, optical image stabilisation, Quad-LED True Tone flash and Live Photos, 4K video recording at 30 fps and slow-motion video recording in 1080p at 120 fps, 7MP front facing FaceTime HD camera with Retina Flash.",
+          "Size": "5.5-inch (diagonal) Retina HD 3D Touch capacitive touchscreen display and home button with 1920x1080 resolution and wide colour, Splash, water and dust resistant.",
+          "OS": "iOS 10 and iCloud operating system with A10 Fusion chip with integrated M10 motion coprocessor, 64GB internal memory and single Nano-SIM.",
+          "Warrenty":"1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase."
+       },
+       {
+          "details" : {
+            "name" : "IPhone 7",
+            "color" : "White Colored",
+            "storage": "2GB RAM, 64GB Storage",
+            "battery": "1960mAH",
+            "price" : "Rs.29,499/-"
+          },
+          "camera":"12MP primary cameras with optical zoom at 2x, digital zoom up to 10x, optical image stabilisation, Quad-LED True Tone flash and Live Photos, 4K video recording at 30 fps and slow-motion video recording in 1080p at 120 fps, 7MP front facing FaceTime HD camera with Retina Flash.",
+          "Size": "5.5-inch (diagonal) Retina HD 3D Touch capacitive touchscreen display and home button with 1920x1080 resolution and wide colour, Splash, water and dust resistant.",
+          "OS": "iOS 10 and iCloud operating system with A10 Fusion chip with integrated M10 motion coprocessor, 64GB internal memory and single Nano-SIM.",
+          "Warrenty":"1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase."
+       },
+       {
+          "details" : {
+            "name" : "IPhone 8",
+            "color" : "White Colored",
+            "storage": "2GB RAM, 64GB Storage",
+            "battery": "1821mAH",
+            "price" : "Rs.38,999/-"
+          },
+          "camera":"12MP dual cameras with OIS, Portrait mode, Portrait Lighting, and 4K video and 7MP FaceTime HD camera with Retina Flash.",
+          "Size": "5.5-inch Retina HD display with IP67 water and dust resistant (maximum depth of 1 meter up to 30 minutes).",
+          "OS": "iOS 12 with Screen Time, Group FaceTime, and even faster performance.",
+          "Warrenty":"1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase."
+       }
+	]
+}
